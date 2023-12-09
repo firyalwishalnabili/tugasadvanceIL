@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ini tugas advance firyal</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+
+    <string-array name="data_name">
+        <item>Aatrox</item>
+        <item>Alistar</item>
+        <item>Ashe</item>
+        <item>Braum</item>
+        <item>Darius</item>
+        <item>Garen</item>
+        <item>Jinx</item>
+        <item>Katarina</item>
+        <item>LeeSin</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Fighter  / Tank     |\nTop Lane\nPhysical</item>
+        <item>Tank     / Support  |\nSupport\nMagic</item>
+        <item>Marksman / Support  |\Bottom Lane\nPhysical</item>
+        <item>Support  / Tank     |\nSupport\nMagic</item>
+        <item>Fighter  / Tank     |\nTop Lane / Middle Lane\nPhysical</item>
+        <item>Fighter  / Tank     |\nTop Lane\nPhysical</item>
+        <item>Marksman            |\nBottom Lane\nPhysical</item>
+        <item>Assassin / Mage     |\nMiddle Lane\nMagic</item>
+        <item>Fighter  / Assassin |\nJungle\nPhysical</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aatrox</item>
+        <item>@drawable/alistar</item>
+        <item>@drawable/ashe</item>
+        <item>@drawable/braum</item>
+        <item>@drawable/darius</item>
+        <item>@drawable/garen</item>
+        <item>@drawable/jinx</item>
+        <item>@drawable/katarina</item>
+        <item>@drawable/leesin</item>
+    </integer-array>
+</resources>
